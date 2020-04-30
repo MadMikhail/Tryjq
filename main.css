@@ -1,0 +1,55 @@
+.imgHolder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    text-align: center;
+    margin-left: 30%;
+}
+.model-name{
+    font-size: 30px;
+    color: darkturquoise;
+    margin-bottom: 20px;
+}
+.model-summary{
+    font-size: 18px;
+    font-weight: 800px;
+    margin-top: 5px;
+}
+.model-price{
+    padding-top: 0px;
+    margin-top: 3px;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+.button{
+    background-color: cornflowerblue ;
+    border-radius: 7px;
+    border: 1px solid cyan;
+    margin-top: 10px;
+    cursor: pointer;
+    
+}
+.button:hover{
+    background-color: cyan;
+    border: 1px solid cornflowerblue;
+    
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    margin-left: 30% ;
+}
+
+h2{
+    text-align: center;
+}
+h4{
+    font-size: 20px;
+    
+}
+.form-block{
+    font-size: 18px;
+    line-height: 22px;  
+}
